@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noecu\\Documents\\github\\destination clone git\\CSharp_TP1\\Csharpnoe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42501CD3-4619-4DE6-B201-CFC24A83D308}|Csharpnoe\\Csharpnoe.csproj|C:\\Users\\noecu\\Documents\\github\\destination clone git\\CSharp_TP1\\Csharpnoe\\csharpnoe\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42501CD3-4619-4DE6-B201-CFC24A83D308}|Csharpnoe\\Csharpnoe.csproj|solutionrelative:csharpnoe\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42501CD3-4619-4DE6-B201-CFC24A83D308}|Csharpnoe\\Csharpnoe.csproj|C:\\Users\\noecu\\Documents\\github\\destination clone git\\CSharp_TP1\\Csharpnoe\\csharpnoe\\forme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42501CD3-4619-4DE6-B201-CFC24A83D308}|Csharpnoe\\Csharpnoe.csproj|solutionrelative:csharpnoe\\forme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42501CD3-4619-4DE6-B201-CFC24A83D308}|Csharpnoe\\Csharpnoe.csproj|C:\\Users\\noecu\\Documents\\github\\destination clone git\\CSharp_TP1\\Csharpnoe\\csharpnoe\\cercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42501CD3-4619-4DE6-B201-CFC24A83D308}|Csharpnoe\\Csharpnoe.csproj|solutionrelative:csharpnoe\\cercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42501CD3-4619-4DE6-B201-CFC24A83D308}|Csharpnoe\\Csharpnoe.csproj|C:\\Users\\noecu\\Documents\\github\\destination clone git\\CSharp_TP1\\Csharpnoe\\csharpnoe\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42501CD3-4619-4DE6-B201-CFC24A83D308}|Csharpnoe\\Csharpnoe.csproj|solutionrelative:csharpnoe\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42501CD3-4619-4DE6-B201-CFC24A83D308}|Csharpnoe\\Csharpnoe.csproj|c:\\users\\noecu\\documents\\github\\destination clone git\\csharp_tp1\\csharpnoe\\csharpnoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42501CD3-4619-4DE6-B201-CFC24A83D308}|Csharpnoe\\Csharpnoe.csproj|solutionrelative:csharpnoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\noecu\\Documents\\github\\destination clone git\\CSharp_TP1\\Csharpnoe\\Csharpnoe\\Point.cs",
+              "RelativeDocumentMoniker": "Csharpnoe\\Point.cs",
+              "ToolTip": "C:\\Users\\noecu\\Documents\\github\\destination clone git\\CSharp_TP1\\Csharpnoe\\Csharpnoe\\Point.cs",
+              "RelativeToolTip": "Csharpnoe\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:43:09.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Forme.cs",
+              "DocumentMoniker": "C:\\Users\\noecu\\Documents\\github\\destination clone git\\CSharp_TP1\\Csharpnoe\\Csharpnoe\\Forme.cs",
+              "RelativeDocumentMoniker": "Csharpnoe\\Forme.cs",
+              "ToolTip": "C:\\Users\\noecu\\Documents\\github\\destination clone git\\CSharp_TP1\\Csharpnoe\\Csharpnoe\\Forme.cs",
+              "RelativeToolTip": "Csharpnoe\\Forme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:44:45.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cercle.cs",
+              "DocumentMoniker": "C:\\Users\\noecu\\Documents\\github\\destination clone git\\CSharp_TP1\\Csharpnoe\\Csharpnoe\\Cercle.cs",
+              "RelativeDocumentMoniker": "Csharpnoe\\Cercle.cs",
+              "ToolTip": "C:\\Users\\noecu\\Documents\\github\\destination clone git\\CSharp_TP1\\Csharpnoe\\Csharpnoe\\Cercle.cs",
+              "RelativeToolTip": "Csharpnoe\\Cercle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:42:56.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\noecu\\Documents\\github\\destination clone git\\CSharp_TP1\\Csharpnoe\\Csharpnoe\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Csharpnoe\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\noecu\\Documents\\github\\destination clone git\\CSharp_TP1\\Csharpnoe\\Csharpnoe\\Rectangle.cs",
+              "RelativeToolTip": "Csharpnoe\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:43:19.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noecu\\Documents\\github\\destination clone git\\CSharp_TP1\\Csharpnoe\\Csharpnoe\\Program.cs",
+              "RelativeDocumentMoniker": "Csharpnoe\\Program.cs",
+              "ToolTip": "C:\\Users\\noecu\\Documents\\github\\destination clone git\\CSharp_TP1\\Csharpnoe\\Csharpnoe\\Program.cs",
+              "RelativeToolTip": "Csharpnoe\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:15:02.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
