@@ -1,0 +1,7 @@
+C:\Users\noecu\Documents\github\destination clone git\CSharp_TP1\Csharpnoe\Csharpnoe\bin\Debug\Csharpnoe.exe.config
+C:\Users\noecu\Documents\github\destination clone git\CSharp_TP1\Csharpnoe\Csharpnoe\bin\Debug\Csharpnoe.exe
+C:\Users\noecu\Documents\github\destination clone git\CSharp_TP1\Csharpnoe\Csharpnoe\bin\Debug\Csharpnoe.pdb
+C:\Users\noecu\Documents\github\destination clone git\CSharp_TP1\Csharpnoe\Csharpnoe\obj\Debug\Csharpnoe.csproj.AssemblyReference.cache
+C:\Users\noecu\Documents\github\destination clone git\CSharp_TP1\Csharpnoe\Csharpnoe\obj\Debug\Csharpnoe.csproj.CoreCompileInputs.cache
+C:\Users\noecu\Documents\github\destination clone git\CSharp_TP1\Csharpnoe\Csharpnoe\obj\Debug\Csharpnoe.exe
+C:\Users\noecu\Documents\github\destination clone git\CSharp_TP1\Csharpnoe\Csharpnoe\obj\Debug\Csharpnoe.pdb

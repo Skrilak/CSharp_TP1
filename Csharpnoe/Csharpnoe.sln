@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharpnoe", "Csharpnoe\Csharpnoe.csproj", "{42501CD3-4619-4DE6-B201-CFC24A83D308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42501CD3-4619-4DE6-B201-CFC24A83D308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42501CD3-4619-4DE6-B201-CFC24A83D308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42501CD3-4619-4DE6-B201-CFC24A83D308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42501CD3-4619-4DE6-B201-CFC24A83D308}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C081AD3-76EE-4A61-85C1-3F7482538636}
+	EndGlobalSection
+EndGlobal
